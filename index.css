@@ -1,0 +1,23 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic+Coding&display=swap');
+.card{
+    border: none;
+}
+*{
+   
+  font-family: "Nanum Gothic Coding", monospace;
+  font-weight: 400;
+  font-style: normal;
+
+}
+ .card {
+            transition: transform 0.3s ease;
+        }
+
+        .card:hover {
+            transform: scale(1.05);
+        }
+        .btn:hover{
+            background-color: black;
+        }
